@@ -1,0 +1,11 @@
+# Entornos Virtuales y Caché
+venv/
+__pycache__/
+*.pyc
+
+# Credenciales y Secretos de AWS (ESTRICTO)
+.aws/
+*.pem
+*.csv
+.env
+credentials

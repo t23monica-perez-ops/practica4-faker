@@ -1,0 +1,4 @@
+boto3==1.40.72
+pandas==2.3.3
+psycopg2-binary==2.9.13
+scikit-learn==1.7.2
